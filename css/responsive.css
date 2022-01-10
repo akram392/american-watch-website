@@ -1,0 +1,350 @@
+/*Mini device -- Galaxy fold and mini phone */
+@media (min-width: 279px) and (max-width: 319px){
+	/*Code Start*/
+  .navbar-nav {
+    margin: 25px 0px 0px;
+  }
+.header-section .navbar-light .navbar-nav .nav-link:hover, .header-section .navbar-light .navbar-nav .nav-link:focus {
+background: url("../images/line.png") left bottom no-repeat;
+background-size: auto;
+}
+.header-section .navbar-light .navbar-nav .nav-link.active {
+background: url("../images/line.png") left bottom no-repeat;
+background-size: auto;
+}
+
+.funs .fun-box {
+    width: 100%;
+    margin: 0px 0px 20px;
+}
+
+.banner {
+    width: 100%;
+    padding: 20px 0px;
+}
+.banner .banner-inner h1 {
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin: 48px 0px 15px;
+    color: #fff;
+}
+.button-group .btn-primary {
+    padding: 12px 15px;
+    margin: 0px 20px 25px 0px;
+}
+
+.title h6{
+	font-size: 18px;
+	line-height: 28px;
+}
+.title h2{
+	font-size: 36px;
+	line-height: 46px;
+}
+.service .title p {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.service {
+    width: 100%;
+    padding: 20px 0px;
+}
+
+.band img {
+	margin: 0px 0px 50px 20px;
+}
+
+.say .owl-move .item .clients-img{
+	width: 56px;
+	height: 56px;
+}
+.say .owl-move .item h6 {
+	font-size: 16px;
+}
+.say .owl-move .item p {
+	font-size: 8px;
+	line-height: 18px;
+}
+
+.footer-section p {
+	margin: 15px 0px 20px;
+}
+.footer-section .send .btn-primary {
+	padding: 5px 25px;
+	margin: 14px 0px 0px;
+	font-size: 12px;
+}
+.footer-section h6 {
+	margin: 10px 0px 15px;
+}
+.footer-section .name p {
+	text-align: center;
+}
+.social-icon {
+	text-align: center;
+	margin: 0px 0px;
+}
+
+
+	/*Code End*/
+}
+/*Device -- Most of the mobile phones iphone, MI, Realme, Galaxy*/
+@media (min-width: 320px) and (max-width: 480px){
+	/*Code Start*/
+   .navbar-nav {
+    margin: 25px 0px 0px;
+   }
+   .header-section .navbar-light .navbar-nav .nav-link:hover, .header-section .navbar-light .navbar-nav .nav-link:focus {
+	background: url("../images/line.png") left bottom no-repeat;
+	background-size: auto;
+  }
+  .header-section .navbar-light .navbar-nav .nav-link.active {
+	background: url("../images/line.png") left bottom no-repeat;
+	background-size: auto;
+  }
+
+.funs .fun-box {
+    width: 100%;
+    margin: 0px 0px 20px;
+}
+
+ .banner {
+    width: 100%;
+    padding: 20px 0px;
+}
+.banner .banner-inner h1 {
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin: 48px 0px 15px;
+    color: #fff;
+}
+.button-group .btn-primary {
+    padding: 12px 15px;
+    margin: 0px 20px 25px 0px;
+}
+
+.title h6{
+	font-size: 18px;
+	line-height: 28px;
+}
+.title h2{
+	font-size: 36px;
+	line-height: 46px;
+}
+.service .title p {
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.service {
+    width: 100%;
+    padding: 20px 0px;
+}
+
+.band img {
+	margin: 0px 0px 50px 60px;
+}
+
+.say .owl-move .item .clients-img {
+    width: 45px;
+    height: 45px;
+    margin: 12px 0px;
+}
+.say .owl-move .item h6 {
+	font-size: 16px;
+}
+.say .owl-move .item p {
+	font-size: 10px;
+	line-height: 20px;
+}
+
+.footer-section p {
+	margin: 15px 0px 20px;
+}
+.footer-section .send .btn-primary {
+	padding: 7px 30px;
+	margin: 14px 0px 0px;
+	font-size: 12px;
+}
+.footer-section h6 {
+	margin: 10px 0px 15px;
+}
+.footer-section p {
+	text-align: left;
+}
+.footer-section .name p {
+	text-align: center;
+}
+.social-icon {
+	text-align: center;
+	margin: 0px 0px;
+}
+
+	/*Code End*/
+}
+/*Device -- Low regulation tablet, phone*/
+@media (min-width: 481px) and (max-width: 767px){
+	/*Code Start*/
+   .navbar-nav {
+    margin: 25px 0px 0px;
+   }
+   .header-section .navbar-light .navbar-nav .nav-link:hover, .header-section .navbar-light .navbar-nav .nav-link:focus {
+	background: url("../images/line.png") left bottom no-repeat;
+	background-size: auto;
+  }
+  .header-section .navbar-light .navbar-nav .nav-link.active {
+	background: url("../images/line.png") left bottom no-repeat;
+	background-size: auto;
+  }
+  
+.funs .fun-box {
+    width: 100%;
+    margin: 0px 0px 20px;
+}
+
+.banner {
+    width: 100%;
+    padding: 20px 0px;
+}
+.banner .banner-inner h1 {
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin: 48px 0px 15px;
+    color: #fff;
+}
+.button-group .btn-primary {
+    padding: 12px 15px;
+    margin: 0px 20px 25px 0px;
+}
+
+.title h6{
+	font-size: 18px;
+	line-height: 28px;
+}
+.title h2{
+	font-size: 36px;
+	line-height: 46px;
+}
+.service .title p {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.service {
+    width: 100%;
+    padding: 20px 0px;
+}
+
+.band img {
+	margin: 0px 0px 50px 115px;
+}
+
+.say .move .item .clients-img {
+    width: 48px;
+    height: 48px;
+    margin: 12px 0px;
+}
+.say .move .item h6 {
+	font-size: 16px;
+}
+.say .move .item p {
+	font-size: 8px;
+	line-height: 18px;
+}
+
+.footer-section p {
+	margin: 15px 0px 20px;
+}
+.footer-section .send .btn-primary {
+	padding: 7px 30px;
+	margin: 14px 0px 0px;
+	font-size: 12px;
+}
+.footer-section h6 {
+	margin: 10px 0px 15px;
+}
+.footer-section p {
+	text-align: left;
+}
+.footer-section .name p {
+	text-align: center;
+	font-size: 18px;
+}
+.social-icon {
+	text-align: center;
+	margin: 0px 0px;
+}  
+	/*Code End*/
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+	/*Code Start*/
+   .navbar-nav {
+    margin: 25px 0px 0px;
+   }
+.header-section .navbar-light .navbar-nav .nav-link:hover, .header-section .navbar-light .navbar-nav .nav-link:focus {
+background: url("../images/line.png") left bottom no-repeat;
+background-size: auto;
+}
+.header-section .navbar-light .navbar-nav .nav-link.active {
+background: url("../images/line.png") left bottom no-repeat;
+background-size: auto;
+}
+
+.band img {
+	margin: 0px 0px 50px 235px;
+}
+
+.say .move .item .clients-img {
+    width: 48px;
+    height: 48px;
+    margin: 12px 0px;
+}
+
+.say .move .item p {
+    font-size: 14px;
+    line-height: 24px;
+}
+.say .owl-move .item .clients-img {
+    width: 70px;
+    height: 70px;
+}
+
+.funs .fun-box {
+    width: 100%;
+    margin: 0px 0px 20px;
+}
+
+.footer-section p {
+	margin: 15px 0px 20px;
+}
+.footer-section .send .btn-primary {
+	padding: 7px 30px;
+	margin: 14px 0px 0px;
+	font-size: 12px;
+}
+.footer-section h6 {
+	margin: 10px 0px 15px;
+}
+.footer-section p {
+	text-align: left;
+}
+.footer-section .name p {
+	text-align: center;
+	font-size: 18px;
+}
+.social-icon {
+	text-align: center;
+} 
+	/*Code End*/
+}
